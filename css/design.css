@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(58,35,43,255);
+    color: rgb(0, 0, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container{
+    background-color:rgba(255,255,207,255);
+    width: 96%;
+    max-width: 900px;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.full-width {
+    width: 100%;
+}
